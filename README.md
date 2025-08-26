@@ -15,13 +15,13 @@ It allows users to encrypt and decrypt text by shifting characters with a chosen
 
 ##  Clone the Repository
 
-git clone git@github.com:Callistuschino/PRODIGY_CS_01.git
+<git clone git@github.com:Callistuschino/PRODIGY_CS_01.git>
 
-cd PRODIGY_CS_01
+*cd PRODIGY_CS_01*
 
 ##  Run the Program
 
-python3 ciphcrypt.py
+*python3 ciphcrypt.py*
 
 * Menu Options
 
@@ -35,32 +35,32 @@ python3 ciphcrypt.py
 
 Encrypt
 
-Enter plaintext: This is Prodigy Internship Task One
-Enter shift (integer): 2025
+Enter plaintext: This is Prodigy Internship Task One<br>
+Enter shift (integer): 2025<br>
 [Encrypted with shift 3] => Qefp fp Molafdv Fkqbokpefm Qxph Lkb
 
 
 Decrypt
 
-Enter ciphertext: Qefp fp Molafdv Fkqbokpefm Qxph Lkb
-Enter shift used to encrypt (integer): 2025
+Enter ciphertext: Qefp fp Molafdv Fkqbokpefm Qxph Lkb<br>
+Enter shift used to encrypt (integer): 2025<br>
 [Decrypted with shift 3] => This is Prodigy Internship Task One
 
-* Project Structure
+##  Project Structure
 
 PRODIGY_CS_01/
 │
 ├── ciphcrypt.py   # Caesar Cipher tool
 └── README.md      # Project documentation
 
-* Note
+##  Note
 
-This Caesar cipher is for educational purposes only.
+This Caesar cipher is for educational purposes only.<br>
 It is not secure for protecting sensitive information.
 
-* Author
+##  Author
 
-Ozichukwu Callistus Nonso
-Cybersecurity Analyst & Ethical Hacker
-GitHub: Callistuschino
+Ozichukwu Callistus Nonso<br>
+Cybersecurity Analyst & Ethical Hacker<br>
+*GitHub: Callistuschino*
 
