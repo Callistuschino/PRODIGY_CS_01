@@ -15,7 +15,7 @@ It allows users to encrypt and decrypt text by shifting characters with a chosen
 
 ##  Clone the Repository
 
-<git clone git@github.com:Callistuschino/PRODIGY_CS_01.git>
+*git clone git@github.com:Callistuschino/PRODIGY_CS_01.git*
 
 *cd PRODIGY_CS_01*
 
@@ -48,9 +48,9 @@ Enter shift used to encrypt (integer): 2025<br>
 
 ##  Project Structure
 
-PRODIGY_CS_01/
+PRODIGY_CS_01/<br>
 │
-├── ciphcrypt.py   # Caesar Cipher tool
+├── ciphcrypt.py   # Caesar Cipher tool<br>
 └── README.md      # Project documentation
 
 ##  Note
